@@ -45,3 +45,25 @@ This project demonstrates basic data cleaning, pivot table analysis, and data vi
 - `Pivot_Training_Cost.csv` — Training cost analysis.
 - `charts/` — Generated chart images.
 
+## Data Visualization
+
+### 1. Average Salary by Department
+![Average Salary](average_salary.png)
+
+### 2. Average Training Cost
+![Average Training Cost](average_training_cost.png)
+
+### 3. Employees by Department
+![Employees by Department](employees_by_department.png)
+
+### 4. Employees by Gender
+![Employees by Gender](employees_by_gender.png)
+
+## Key Insights
+
+- The dataset was cleaned before analysis.
+- Pivot tables were created to summarize employee data.
+- Charts were generated to compare salary, training cost, department, and gender.
+- These visualizations help identify patterns in the HR dataset.
+
+
